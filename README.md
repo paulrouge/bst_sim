@@ -1,8 +1,8 @@
 # bst simulation model
 
-_BST is a version of a so called "up only" contract. Each swap is taxed, the taxed value stays in the protocol, thus making it so that the price goes "up only". 
+_BST is a version of a so called "up only" contract. Each swap is taxed, the taxed value stays in the protocol, thus making it so that the price goes "up only"._ 
 
-This might sound pretty ponzi, but keep in mind that the incoming value is coming from the Blobble game. All the bnusd spend within the game is going through the BST contract. We will also use our node reward to mint BST using bnUSD. And distriubte that BST to healthy Blobble owners._
+_This might sound pretty ponzi, but keep in mind that the incoming value is coming from the Blobble game. All the bnusd spend within the game is going through the BST contract. We will also use our node reward to mint BST using bnUSD. And distriubte that BST to healthy Blobble owners._
 
 ## How to run
 
