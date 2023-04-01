@@ -14,11 +14,11 @@ In `root/config.py` you can set the parameters for the simulation. CHUNK_SIZE is
 
 example:
 
-    with a chunksize of 500, a tx worth 1600 bnusd will be split into 3 chunks of 500 bnusd each, and a remainer of 100. Each chunk, and the remaining 100, is taxed, and the new price is calculated based on the new supply.
+with a chunksize of 500, a tx worth 1600 bnusd will be split into 3 chunks of 500 bnusd each, and a remainer of 100. Each chunk, and the remaining 100, is taxed, and the new price is calculated based on the new supply.
 
 So after you checked and set the config.py you can run the simulation with:
 
 ```bash
-    python3 main.py
+python3 main.py
 ```
 
